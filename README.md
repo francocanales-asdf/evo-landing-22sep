@@ -26,6 +26,13 @@ python3 -m http.server 8791 --bind 127.0.0.1
   quejas de los dueños con su agencia, un equipo pequeño con Evo detrás y sin
   promesas de resultado. La única cifra (53 %) cita su fuente en la página.
   El diseño y los botones no cambiaron.
+- Segunda reescritura (3 nov 2026): la inteligencia artificial y las
+  automatizaciones pasan al frente. La página dice qué tareas hace la IA
+  (juntar números, borrador del reporte, revisar anuncios de la competencia,
+  ideas de anuncios, cambios listos en pausa) y qué hacen las personas
+  (conversar, decidir, revisar y responder por cada número), y por qué eso
+  hace al equipo más rápido y sin el costo de un equipo grande. Aclara que
+  hoy la IA no publica ni responde a clientes sola. Sin cifras nuevas.
 
 - Las rutas de estilos y los enlaces internos de la página son relativos, para
   que se vea completa fuera del servidor de Evo.
